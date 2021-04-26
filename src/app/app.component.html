@@ -1,0 +1,14 @@
+<div class="title">
+    <h1>{{ 'application.title' | translate }}</h1>
+</div>
+<div class="languages">
+    <p> <button (click)="changeLanguage('fr')">FR</button> </p>
+    <p> <button (click)="changeLanguage('es')">ES</button> </p>
+    <p> <button (click)="changeLanguage('en')">EN</button> </p>
+</div>
+<div class="nav">
+    <p class="itemMenu"> {{ 'application.item-menu-1' | translate}}</p>
+    <p class="itemMenu"> {{ 'application.item-menu-2' | translate}}</p>
+    <p class="itemMenu"> {{ 'application.item-menu-3' | translate}}</p>
+</div>
+<router-outlet></router-outlet>

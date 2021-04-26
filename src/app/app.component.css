@@ -1,0 +1,19 @@
+.itemMenu{
+    width: 33%;
+    color: black;
+    background-color: darkgray;
+    height: 40px;
+    float: left;
+    text-align: center;
+}
+
+.title{
+    width: 80%;
+    float: left;
+    text-align: center;
+}
+
+.languages{
+    width: 20%;
+    float: left;
+}

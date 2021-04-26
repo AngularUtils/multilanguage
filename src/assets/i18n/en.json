@@ -1,0 +1,14 @@
+{
+    "application": {
+        "title": "Title of the application",
+        "item-menu-1": "Tab 1",
+        "item-menu-2": "Tab 2",
+        "item-menu-3": "Tab 3"
+    },
+    "page-one": {
+        "title": "Title of the page one"
+    },
+    "page-two": {
+        "title": "Title of the page two"
+    }
+}

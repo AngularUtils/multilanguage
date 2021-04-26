@@ -1,0 +1,14 @@
+{
+    "application": {
+        "title": "Título de la aplicación",
+        "item-menu-1": "Pestaña 1",
+        "item-menu-2": "Pestaña 2",
+        "item-menu-3": "Pestaña 3"
+    },
+    "page-one": {
+        "title": "Título página uno"
+    },
+    "page-two": {
+        "title": "Título página dos"
+    }
+}
